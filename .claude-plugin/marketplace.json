@@ -3,11 +3,11 @@
   "owner": { "name": "rename-test" },
   "plugins": [
     {
-      "name": "chrome-devtools-mcp",
+      "name": "chrome-devtools",
       "source": {
         "source": "url",
         "url": "https://github.com/demowec001/chrome-devtools-mcp.git",
-        "sha": "235ea2ce5d7d396651dac75f11fd185c8dee03f9"
+        "sha": "78de0f9e79c8d96a3c0c6f8c2be1b23e401b73af"
       }
     }
   ]
