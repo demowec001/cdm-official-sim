@@ -1,0 +1,14 @@
+{
+  "name": "cdt-official-sim",
+  "owner": { "name": "rename-test" },
+  "plugins": [
+    {
+      "name": "chrome-devtools-mcp",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/demowec001/chrome-devtools-mcp.git",
+        "sha": "235ea2ce5d7d396651dac75f11fd185c8dee03f9"
+      }
+    }
+  ]
+}
