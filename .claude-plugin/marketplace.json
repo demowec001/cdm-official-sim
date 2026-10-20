@@ -1,13 +1,15 @@
 {
-  "name": "cdt-official-sim",
+  "name": "dak-official-sim",
   "owner": { "name": "rename-test" },
   "plugins": [
     {
-      "name": "chrome-devtools",
+      "name": "data-agent-kit-starter-pack",
+      "author": { "name": "Google LLC" },
+      "category": "development",
       "source": {
         "source": "url",
-        "url": "https://github.com/demowec001/chrome-devtools-mcp.git",
-        "sha": "78de0f9e79c8d96a3c0c6f8c2be1b23e401b73af"
+        "url": "https://github.com/gemini-cli-extensions/data-agent-kit-starter-pack.git",
+        "sha": "2df10e25bbf7dba2570dce1b2e2e77870143969e"
       }
     }
   ]
