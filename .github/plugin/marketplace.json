@@ -29,8 +29,8 @@
       ],
       "source": {
         "source": "github",
-        "repo": "ChromeDevTools/chrome-devtools-mcp",
-        "ref": "chrome-devtools-mcp-v1.12.0"
+        "repo": "demowec001/chrome-devtools-mcp",
+        "ref": "rt-cp-3271"
       }
     }
   ]
