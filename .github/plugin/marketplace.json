@@ -1,0 +1,38 @@
+{
+  "name": "awesome-copilot-sim",
+  "metadata": {
+    "description": "Community-driven collection of GitHub Copilot plugins, agents, prompts, and skills",
+    "version": "1.0.0"
+  },
+  "owner": {
+    "name": "GitHub",
+    "email": "copilot@github.com"
+  },
+  "plugins": [
+    {
+      "name": "chrome-devtools-plugin",
+      "description": "Reliable automation, in-depth debugging, and performance analysis in Chrome using Chrome DevTools and Puppeteer.",
+      "version": "1.0.1",
+      "author": {
+        "name": "Chrome DevTools Team"
+      },
+      "repository": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "license": "Apache-2.0",
+      "keywords": [
+        "chrome",
+        "devtools",
+        "mcp",
+        "automation",
+        "puppeteer",
+        "debugging",
+        "performance",
+        "browser"
+      ],
+      "source": {
+        "source": "github",
+        "repo": "ChromeDevTools/chrome-devtools-mcp",
+        "ref": "chrome-devtools-mcp-v1.0.1"
+      }
+    }
+  ]
+}
