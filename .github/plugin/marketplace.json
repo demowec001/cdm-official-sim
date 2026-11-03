@@ -9,9 +9,9 @@
   },
   "plugins": [
     {
-      "name": "chrome-devtools-plugin",
+      "name": "chrome-devtools",
       "description": "Reliable automation, in-depth debugging, and performance analysis in Chrome using Chrome DevTools and Puppeteer.",
-      "version": "1.0.1",
+      "version": "1.12.0",
       "author": {
         "name": "Chrome DevTools Team"
       },
@@ -30,7 +30,7 @@
       "source": {
         "source": "github",
         "repo": "ChromeDevTools/chrome-devtools-mcp",
-        "ref": "chrome-devtools-mcp-v1.0.1"
+        "ref": "chrome-devtools-mcp-v1.12.0"
       }
     }
   ]
