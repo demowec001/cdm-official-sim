@@ -1,14 +1,17 @@
 {
-  "name": "cdt-official-sim",
+  "name": "cdt7-official-sim",
   "owner": { "name": "rename-test" },
   "plugins": [
     {
-      "name": "chrome-devtools",
+      "name": "chrome-devtools-mcp",
+      "description": "Control and inspect a live Chrome browser from your coding agent. Record performance traces, analyze network requests, check console messages with source-mapped stack traces, and automate browser actions with Puppeteer.",
+      "category": "development",
       "source": {
         "source": "url",
         "url": "https://github.com/demowec001/chrome-devtools-mcp.git",
-        "sha": "78de0f9e79c8d96a3c0c6f8c2be1b23e401b73af"
-      }
+        "sha": "a878bcad39584337e055778353246820deafa7c0"
+      },
+      "homepage": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
     }
   ]
 }
