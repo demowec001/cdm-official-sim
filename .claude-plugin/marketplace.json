@@ -5,16 +5,18 @@
   },
   "plugins": [
     {
-      "name": "chrome-devtools-mcp",
-      "displayName": "Chrome DevTools MCP",
+      "name": "chrome-devtools",
       "description": "Control and inspect a live Chrome browser from your coding agent. Record performance traces, analyze network requests, check console messages with source-mapped stack traces, and automate browser actions with Puppeteer.",
       "category": "development",
       "source": {
         "source": "url",
         "url": "https://github.com/demowec001/chrome-devtools-mcp.git",
-        "sha": "ff756a64477e6d284949b2d622fd3ece5151c265"
+        "sha": "e804a1aabbd1a47a1f6adb107dadbc7d30d4984e"
       },
       "homepage": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
     }
-  ]
+  ],
+  "renames": {
+    "chrome-devtools-mcp": "chrome-devtools"
+  }
 }
