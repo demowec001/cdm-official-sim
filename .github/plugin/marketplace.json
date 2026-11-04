@@ -30,7 +30,7 @@
       "source": {
         "source": "github",
         "repo": "ChromeDevTools/chrome-devtools-mcp",
-        "ref": "chrome-devtools-mcp-v1.0.1"
+        "sha": "2a79b426f3313744feb0a2b8879afdaec47d5960"
       }
     }
   ]
