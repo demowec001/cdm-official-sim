@@ -9,31 +9,6 @@
   },
   "plugins": [
     {
-      "name": "chrome-devtools-plugin",
-      "description": "Deprecated: renamed to chrome-devtools. Run: copilot plugin install chrome-devtools@awesome-copilot",
-      "version": "1.14.0",
-      "author": {
-        "name": "Chrome DevTools Team"
-      },
-      "repository": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "license": "Apache-2.0",
-      "keywords": [
-        "chrome",
-        "devtools",
-        "mcp",
-        "automation",
-        "puppeteer",
-        "debugging",
-        "performance",
-        "browser"
-      ],
-      "source": {
-        "source": "github",
-        "repo": "ChromeDevTools/chrome-devtools-mcp",
-        "ref": "chrome-devtools-mcp-v1.14.0"
-      }
-    },
-    {
       "name": "chrome-devtools",
       "description": "Reliable automation, in-depth debugging, and performance analysis in Chrome using Chrome DevTools and Puppeteer.",
       "version": "1.14.0",
